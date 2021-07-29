@@ -1,10 +1,11 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-# - 17 Years old
-# - Does some coding stuff
-# - Scikit & Tensorflow 
-# - Trying to learn Django but failing
-# - Enjoys 3D design (Blender, Fusion 360)
-# - Has a lousy laptop
+### - 17 Years old
+### - Does some coding stuff
+### - Scikit & Tensorflow 
+### - Trying to learn Django but failing
+### - Enjoys 3D design (Blender, Fusion 360)
+### - Considerable skill in Minecraft
+### - Has a lousy laptop
 
 
 ### Now read some Hobbit propaganda!
