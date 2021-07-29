@@ -51,14 +51,14 @@ The bravest little hobbit of them all.
 
 ## Known AI models in Python 💻
 
-### 1️⃣ Regression                  2️⃣ Classification
-#### - Linear                       - Naive Bayes 
+### 1️⃣ Regression                  
+#### - Linear                       
 #### - Multiple Linear 
 #### - Polynomial
 #### - Support Vector
 
-2️⃣ Classification 
-- Naive Bayes 
+### 2️⃣ Classification 
+#### - Naive Bayes 
 
 ### 3️⃣ Natural Language Processing 
 #### - Bag of Words Model
