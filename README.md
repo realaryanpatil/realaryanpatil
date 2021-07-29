@@ -1,6 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### - 17 Years old
-### - Does some coding stuff (Python - numpy, Tensorflow and the general stuff)
+### - Does some coding stuff (Python)
+### - Knows how to make AI models in Python (full list at the bottom)
 ### - Trying to learn Django but failing
 ### - Enjoys 3D design (Blender, Fusion 360)
 ### - Considerable skill in Minecraft
@@ -47,3 +48,22 @@ Bilbo! Bilbo! Bilbo Baggins!
 He's only three feet tall!
 Bilbo! Bilbo! Bilbo Baggins!
 The bravest little hobbit of them all.
+
+# Known AI models in Python 💻
+
+## 1️⃣ Regression
+### - Linear 
+### - Multiple Linear 
+### - Polynomial
+### - Support Vector
+
+## 2️⃣ Classification 
+### - Naive-Bayes 
+
+## 3️⃣ Natural Language Processing 
+### - Bag of Words Model
+
+## 4️⃣ Artificial Neural Networks
+### - Classification (Still learning)
+
+## More to come soon!
