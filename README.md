@@ -15,7 +15,7 @@ He lives in a hobbit-hole and everybody knows him
 Bilbo! Bilbo! Bilbo Baggins
 He's only three feet tall
 Bilbo! Bilbo! Bilbo Baggins
-The bravest little hobbit of them all
+The bravest little hobbit of them all.
 Now hobbits are a peace-lovin' folks you know
 They don't like to hurry and they take things slow
 They don't like to travel away from home
@@ -27,7 +27,7 @@ That was stolen by a dragon in the days of old.
 Bilbo! Bilbo! Bilbo Baggins
 He's only three feet tall
 Bilbo! Bilbo! Bilbo Baggins
-The bravest little hobbit of them all
+The bravest little hobbit of them all.
 Well he fought with the goblins!
 He battled a troll!!
 He riddled with Gollum!!!
@@ -36,7 +36,7 @@ He was chased by wolves!!
 Lost in the forest!!!
 Escaped in a barrel from the elf-king's halls!!!
 Bilbo! Bilbo! Bilbo Baggins
-The bravest little hobbit of them all
+The bravest little hobbit of them all.
 Now he's back in his hole in the land of the Shire, 
 That brave little hobbit whom we all admire,
 Just a-sittin' on a treasure of silver and gold
@@ -44,4 +44,4 @@ A-puffin' on his pipe in his hobbit-hole.
 Bilbo! Bilbo! Bilbo Baggins
 He's only three feet tall
 Bilbo! Bilbo! Bilbo Baggins
-The bravest little hobbit of them all
+The bravest little hobbit of them all.
