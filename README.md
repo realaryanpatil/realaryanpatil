@@ -49,21 +49,21 @@ He's only three feet tall!
 Bilbo! Bilbo! Bilbo Baggins!
 The bravest little hobbit of them all.
 
-# Known AI models in Python 💻
+## Known AI models in Python 💻
 
-## 1️⃣ Regression
-### - Linear 
-### - Multiple Linear 
-### - Polynomial
-### - Support Vector
+### 1️⃣ Regression
+#### - Linear 
+#### - Multiple Linear 
+#### - Polynomial
+#### - Support Vector
 
-## 2️⃣ Classification 
-### - Naive-Bayes 
+### 2️⃣ Classification 
+#### - Naive-Bayes 
 
-## 3️⃣ Natural Language Processing 
-### - Bag of Words Model
+### 3️⃣ Natural Language Processing 
+#### - Bag of Words Model
 
-## 4️⃣ Artificial Neural Networks
-### - Classification (Still learning)
+### 4️⃣ Artificial Neural Networks
+#### - Classification (Still learning)
 
-## More to come soon!
+### More to come soon!
