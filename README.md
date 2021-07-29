@@ -1,7 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### - 17 Years old
-### - Does some coding stuff
-### - Scikit & Tensorflow 
+### - Does some coding stuff (Python - numpy, Tensorflow and the general stuff)
 ### - Trying to learn Django but failing
 ### - Enjoys 3D design (Blender, Fusion 360)
 ### - Considerable skill in Minecraft
