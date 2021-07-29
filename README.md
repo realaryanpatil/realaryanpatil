@@ -1,7 +1,9 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # - 17 Years old
 # - Does some coding stuff
-# - Enjoys 3D design
+# - Scikit & Tensorflow 
+# - Trying to learn Django but failing
+# - Enjoys 3D design (Blender, Fusion 360)
 # - Has a lousy laptop
 
 
