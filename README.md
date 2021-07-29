@@ -8,7 +8,7 @@
 ### - Has a lousy laptop
 
 
-## Now read some Hobbit propaganda!
+## Now read some Hobbit propaganda
 
 In the middle of the earth in the land of the Shire,
 lives a brave little hobbit whom we all admire.
