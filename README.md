@@ -58,7 +58,7 @@ The bravest little hobbit of them all.
 #### - Support Vector
 
 ### 2️⃣ Classification 
-#### - Naive-Bayes 
+#### - Naive Bayes 
 
 ### 3️⃣ Natural Language Processing 
 #### - Bag of Words Model
