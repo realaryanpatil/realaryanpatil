@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### - 17 Years old
 ### - Does some coding stuff (Python)
-### - Knows how to make AI models in Python (full list at the bottom)
+### - Knows the difference between AI and ML
 ### - Trying to learn Django but failing
 ### - Enjoys 3D design (Blender, Fusion 360)
 ### - Considerable skill in Minecraft
