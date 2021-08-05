@@ -2,7 +2,7 @@
 
 ![Twitter](https://img.shields.io/twitter/follow/realaryanpatil?color=green&style=social)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/SirEnderman?style=social)
-![Instagram]((https://img.shields.io/badge/Instagram-yellow?logo=instagram&style=social)
+![Instagram](https://img.shields.io/badge/Instagram-yellow?logo=instagram&style=social)
 
 ![Python](https://img.shields.io/badge/Python3-yellow?logo=python&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-blue?logo=html5&style=for-the-badge)
