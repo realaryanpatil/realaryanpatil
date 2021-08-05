@@ -7,6 +7,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
 
+### Machine Learning 🤖
 ![Regression](https://img.shields.io/badge/Regression-Python-x)
 ![Simple](https://img.shields.io/badge/Simple%20Linear-blue)
 ![Multiple](https://img.shields.io/badge/Multiple%20Linear-blue)
@@ -16,6 +17,12 @@
 
 ![Classification](https://img.shields.io/badge/Classification-Python-x)
 ![NaiveBayes](https://img.shields.io/badge/Naive%20Bayes-blue)
+
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-Python-x)
+![BOW](https://img.shields.io/badge/Bag%20Of%20Words%20Model-blue)
+
+![ANN](https://img.shields.io/badge/Artificial%20Neural%20Networks-Still Learning-x)
+#### More to come soon!
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### - 17 Years old
@@ -67,21 +74,4 @@ He's only three feet tall!
 Bilbo! Bilbo! Bilbo Baggins!
 The bravest little hobbit of them all.
 
-## Known AI models in Python 💻
 
-### 1️⃣ Regression                  
-#### - Linear                       
-#### - Multiple Linear 
-#### - Polynomial
-#### - Support Vector
-
-### 2️⃣ Classification 
-#### - Naive Bayes 
-
-### 3️⃣ Natural Language Processing 
-#### - Bag of Words Model
-
-### 4️⃣ Artificial Neural Networks
-#### - Classification (Still learning)
-
-### More to come soon!
