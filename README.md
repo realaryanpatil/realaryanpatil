@@ -3,7 +3,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/realaryanpatil?color=green&style=social)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/SirEnderman?style=social)
 
-![Python](https://img.shields.io/badge/Python3-yellow?logo=python&style=plastic)
+![Python](https://img.shields.io/badge/Python3-yellow?logo=python&style=flat-squared)
 
 ![Regression](https://img.shields.io/badge/Regression-Python-blue)
 
