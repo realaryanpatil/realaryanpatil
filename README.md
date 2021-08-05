@@ -1,3 +1,5 @@
+
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realaryanpatil&theme=dark&show_icons=true)
 
 ![Twitter](https://img.shields.io/twitter/follow/realaryanpatil?color=green&style=social)
@@ -26,11 +28,9 @@
 
 ![SOON](https://img.shields.io/badge/More%20To%20Come%20Soon!-red)
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# TL;DR
 ### - 17 Years old
-### - Does some coding stuff (Python)
-### - Knows the difference between AI and ML
-### - Trying to learn Django but failing
+### - Self Taught Programmer (Python)
 ### - Enjoys 3D design (Blender, Fusion 360)
 ### - Considerable skill in Minecraft
 ### - Has a lousy laptop
