@@ -8,6 +8,8 @@
 ### - Considerable skill in Minecraft
 ### - Has a lousy laptop
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realaryanpatil&theme=dark&show_icons=true)
+
 
 ## Now read some Hobbit propaganda
 
