@@ -4,7 +4,7 @@
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/SirEnderman?style=social)
 
 ![Python](https://img.shields.io/badge/Python3-yellow?logo=python&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-blue?logo=html&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-blue?logo=html5&style=for-the-badge)
 
 ![Regression](https://img.shields.io/badge/Regression-Python-blue)
 
