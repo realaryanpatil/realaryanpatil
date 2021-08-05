@@ -10,6 +10,8 @@
 ![Regression](https://img.shields.io/badge/Regression-Python-x)
 ![Simple](https://img.shields.io/badge/Simple%20Linear-blue)
 ![Multiple](https://img.shields.io/badge/Multiple%20Linear-blue)
+![Polynomial](https://img.shields.io/badge/Polynomial-blue)
+![SupportVector](https://img.shields.io/badge/Support%20Vector-blue)
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### - 17 Years old
