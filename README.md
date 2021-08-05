@@ -3,7 +3,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/realaryanpatil?color=green&style=social)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/SirEnderman?style=social)
 
-![Python](https://img.shields.io/badge/-Python3-ffd543?logo=python&style=flat)
+![Python](https://img.shields.io/badge/Language-Python3-blue)
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### - 17 Years old
 ### - Does some coding stuff (Python)
