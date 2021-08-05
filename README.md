@@ -1,7 +1,7 @@
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realaryanpatil&theme=dark&show_icons=true)
 
 ![Twitter](https://img.shields.io/twitter/follow/realaryanpatil?color=green&style=social)
-![Reddit](https://img.shields.io/reddit/user-karma/combined/SirEnderman?logo=reddit)
+![Reddit](https://img.shields.io/reddit/user-karma/combined/SirEnderman?style=social)
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### - 17 Years old
 ### - Does some coding stuff (Python)
