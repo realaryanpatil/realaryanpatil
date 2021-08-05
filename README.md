@@ -21,8 +21,8 @@
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-Python-x)
 ![BOW](https://img.shields.io/badge/Bag%20Of%20Words%20Model-blue)
 
-![ANN](https://img.shields.io/badge/Artificial%20Neural%20Networks-Still Learning-x)
-#### More to come soon!
+![ANN](https://img.shields.io/badge/Artificial%20Neural%20Networks-Still%20Learning-x)
+![BOW](https://img.shields.io/badge/More%20To%Come%20Soon!-x)
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### - 17 Years old
