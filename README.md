@@ -7,7 +7,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
 
-![Regression](https://img.shields.io/badge/Regression-Python-blue)
+![Regression](https://img.shields.io/badge/Regression-Python-green)
 ![Simple](https://img.shields.io/badge/Simple%20Linear-blue)
 ![Multiple](https://img.shields.io/badge/Multiple%20Linear-blue)
 
