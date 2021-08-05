@@ -1,4 +1,4 @@
-![something special](https://github.com/realaryanpatil/realaryanpatil/blob/main/profilepicture.png?raw=true)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realaryanpatil&theme=dark&show_icons=true)
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### - 17 Years old
 ### - Does some coding stuff (Python)
@@ -7,9 +7,6 @@
 ### - Enjoys 3D design (Blender, Fusion 360)
 ### - Considerable skill in Minecraft
 ### - Has a lousy laptop
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realaryanpatil&theme=dark&show_icons=true)
-
 
 ## Now read some Hobbit propaganda
 
