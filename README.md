@@ -20,6 +20,7 @@
 
 ![Classification](https://img.shields.io/badge/Classification-Python-x)
 ![NaiveBayes](https://img.shields.io/badge/Naive%20Bayes-blue)
+![KNN](https://img.shields.io/badge/K-NN-blue)
 
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-Python-x)
 ![BOW](https://img.shields.io/badge/Bag%20Of%20Words%20Model-blue)
