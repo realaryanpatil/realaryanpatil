@@ -29,9 +29,8 @@
 
 ![SOON](https://img.shields.io/badge/More%20To%20Come%20Soon!-red)
 
-# TL;DR
-### - 17 Years old
-### - Self Taught Programmer (Python)
+# TL&DR
+### - Python
 ### - Enjoys 3D design (Blender, Fusion 360)
 ### - Considerable skill in Minecraft
 ### - Has a lousy laptop
