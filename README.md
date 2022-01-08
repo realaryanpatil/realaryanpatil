@@ -2,7 +2,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realaryanpatil&theme=dark&show_icons=true)
 
-![Twitter](https://img.shields.io/twitter/follow/realaryanpatil?color=green&style=social)
+![Twitter](https://img.shields.io/twitter/follow/reallypatil?color=green&style=social)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/SirEnderman?style=social)
 ![Twitch](https://img.shields.io/twitch/status/iamsirenderman?label=iamsirenderman&style=social)
 
