@@ -2,10 +2,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realaryanpatil&theme=dark&show_icons=true)
 
-![Twitter](https://img.shields.io/twitter/follow/reallypatil?color=green&style=social)
-![Reddit](https://img.shields.io/reddit/user-karma/combined/SirEnderman?style=social)
-![Twitch](https://img.shields.io/twitch/status/iamsirenderman?label=iamsirenderman&style=social)
-
 ![Python](https://img.shields.io/badge/Python3-yellow?logo=python&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
